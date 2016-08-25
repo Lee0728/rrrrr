@@ -1,0 +1,426 @@
+Trail-client
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.LinkFileList
+c0000000052B26AB200000000000001C3
+t1387424434
+s451
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a
+t1387424435
+s108320
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o
+t1387424434
+s8432
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o
+t1387424434
+s39944
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o
+t1387424434
+s57676
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.LinkFileList
+c0000000052B26AB200000000000001C6
+t1387424434
+s454
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a
+t1387424435
+s108320
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o
+t1387424434
+s8436
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o
+t1387424434
+s39916
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o
+t1387424435
+s57696
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh
+c0000000052B26AB200000000000000D6
+t1387424434
+s214
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+c00000000524230460000000000001E9C
+t1380069446
+s7836
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+c00000000524230460000000000004A25
+t1380069446
+s18981
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+c00000000524230460000000000000A9A
+t1380069446
+s2714
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies76fd7a32a262b841^4e457e32a262b841^---0#1#1#--18"Check dependencies36"C7830BE3-F1EE-4207-920E-1ABDB74C2973-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.710278
+e409117234.820639
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c246"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o channels/rail/rail_common.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilercff5b532a262b841^a915d232a262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c0000000000000000^2881"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o channels/rail/rail_common.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_common.o36"AC5807C8-B642-428F-A4A6-9E8C03A9D8B3-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.549131
+e409117234.711509
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c249"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o channels/rail/client/rail_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerc8b28c32a262b841^c825b632a262b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c0000000000000000^2883"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o channels/rail/client/rail_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_main.o36"E62E095D-8CE5-48F7-B8E9-7EC5757C5885-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.664769
+e409117234.945707
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o channels/rail/client/rail_orders.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerf359aa32a262b841^7c2bf232a262b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c0000000000000000^2895"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o channels/rail/client/rail_orders.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail_orders.o36"2923CC89-85F3-473C-9FCD-4DE1F1761162-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.845964
+e409117234.940574
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c248"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o channels/rail/rail_common.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerb2bbd832a262b841^68e7f032a262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c0000000000000000^2888"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o channels/rail/rail_common.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_common.o36"54B5639F-63D0-4807-A6BD-CB2D657C6018-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.715556
+e409117234.848003
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o channels/rail/client/rail_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler7a55b732a262b841^ea22d932a262b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c0000000000000000^2890"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o channels/rail/client/rail_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_main.o36"99EA5594-88B6-48D2-8218-C17ECC4377BA-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117234.824881
+e409117235.080007
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_main.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/rail_common.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c255"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o channels/rail/client/rail_orders.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler514fd332a262b841^a27d1433a262b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c0000000000000000^2902"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o channels/rail/client/rail_orders.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rail/client/rail_orders.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail_orders.o36"BEBBC661-EC61-4F2B-834B-D9CD7E5666D4-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a normal armv7\ armv7s
+s409117235.512219
+e409117235.589065
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a138"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a normal armv7\ armv7s9a3e8333a262b841^8ecd9633a262b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a00386c55deffdf42^799"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos/rail-client.a36"A8806FCC-B7AA-446F-8ACD-336B139812E2-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a normal armv7
+s409117235.261946
+e409117235.283131
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a normal armv7171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a normal armv7132b4333a262b841^dd7b4833a262b841^---0#0#1#--1102"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7/rail-client.a36"9AD010D0-A85B-4F54-B0A0-6859DC245CF6-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a normal armv7s
+s409117235.284680
+e409117235.303859
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a normal armv7s173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a normal armv7sc51f4933a262b841^5cca4d33a262b841^---0#0#1#--1107"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Objects-normal/armv7s/rail-client.a36"A20BD732-DB45-4F7D-AFCA-C18ABE362620-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh
+s409117235.930413
+e409117236.030849
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rail-client.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'195"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh1edfee33a262b841^8bfb0734a262b841^-663"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rail-client.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient6(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117235#0#30#-0#-----2@23"Depend check for xcode-409117235#30#23#-0#-----2@217"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rail-client.Release-409117235#53#217#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117236#270#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117236#392#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117236#527#136#-0#-----0#0#1#--410"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rail/client/GwtClient.build/Release-iphoneos/rail-client.build/Script-25ABB2363D7A482FAEC1A982.sh36"9BCC7839-58E8-498E-98AA-7B6D2DEAA100-
+b54978602-2EB1-4560-849F-B3B68C70FD8A
+

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/AppDelegate.m \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/AppDelegate.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/AboutController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/HelpController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/BookmarkListController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Models/Bookmark.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Models/ConnectionParams.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/BookmarkTableCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/SessionTableCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/BookmarkEditorController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/EditorBaseController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditTextTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditFlagTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditSelectionTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditSubEditTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditSecretTextTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/EditButtonTableViewCell.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Misc/Reachability.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/AppSettingsController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Controllers/MainTabBarController.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Misc/Utils.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Misc/TSXTypes.h

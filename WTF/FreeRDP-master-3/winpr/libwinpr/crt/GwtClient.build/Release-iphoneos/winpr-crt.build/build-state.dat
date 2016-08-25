@@ -1,0 +1,554 @@
+Twinpr-crt
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a normal armv7s
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a normal armv7
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o
+t1387424411
+s7724
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o
+t1387424411
+s3948
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o
+t1387424411
+s3380
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a
+t1387424411
+s59000
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o
+t1387424411
+s1884
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o
+t1387424411
+s14928
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o
+t1387424411
+s10660
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o
+t1387424411
+s14636
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/winpr-crt.LinkFileList
+c0000000052B26A9A00000000000003E7
+t1387424410
+s999
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o
+t1387424411
+s7720
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o
+t1387424411
+s3944
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o
+t1387424411
+s3380
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a
+t1387424411
+s58944
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o
+t1387424411
+s1884
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o
+t1387424411
+s14912
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o
+t1387424411
+s10664
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o
+t1387424411
+s14616
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/winpr-crt.LinkFileList
+c0000000052B26A9A00000000000003EE
+t1387424410
+s1006
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh
+c0000000052B26A9A00000000000000D0
+t1387424410
+s208
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+c00000000524230460000000000000D0D
+t1380069446
+s3341
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+c000000005242304600000000000004E3
+t1380069446
+s1251
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+c0000000052423046000000000000044D
+t1380069446
+s1101
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+c000000005242304600000000000003CA
+t1380069446
+s970
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+c000000005242304600000000000019D4
+t1380069446
+s6612
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+c00000000524230460000000000002CFB
+t1380069446
+s11515
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+c0000000052423046000000000000503B
+t1380069446
+s20539
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7aa70e1aa262b841^63461c1aa262b841^---0#1#1#--18"Check dependencies36"9D55699E-78AF-4BFC-B334-3982D3ADADB8-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117210.109643
+e409117211.128508
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c243"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o winpr/libwinpr/crt/alignment.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerba2e1c1aa262b841^5ce6201ba262b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c0000000000000000^2851"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o winpr/libwinpr/crt/alignment.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/alignment.o36"E6DAAD8A-B4FC-45F9-B805-D5763C445038-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.130219
+e409117211.175107
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c237"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o winpr/libwinpr/crt/buffer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler1c78211ba262b841^02d42c1ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c0000000000000000^2833"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o winpr/libwinpr/crt/buffer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/buffer.o36"5F12CE8F-899D-4A06-B9C2-671D5909C89B-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.137567
+e409117211.199862
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c245"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o winpr/libwinpr/crt/conversion.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler5859231ba262b841^bf2a331ba262b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c0000000000000000^2857"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o winpr/libwinpr/crt/conversion.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/conversion.o36"28F33FE6-DE67-4565-AD4C-B9A24EF3ED34-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.201900
+e409117211.269270
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c237"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o winpr/libwinpr/crt/memory.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerb6d6331ba262b841^03ef441ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c0000000000000000^2833"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o winpr/libwinpr/crt/memory.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o36"5F5EB0F9-D211-49DC-999B-848A7D73734E-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.260789
+e409117211.429218
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c237"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o winpr/libwinpr/crt/string.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerb8e6421ba262b841^8fe16d1ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c0000000000000000^2833"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o winpr/libwinpr/crt/string.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/string.o36"D916534B-CA2C-4634-8914-A690E38CFB96-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.274261
+e409117211.382758
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c239"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o winpr/libwinpr/crt/unicode.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler255a461ba262b841^e3fc611ba262b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c0000000000000000^2839"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o winpr/libwinpr/crt/unicode.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/unicode.o36"9D568A3B-9296-4B4D-A56B-2B821D1013EB-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.300256
+e409117211.475619
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c231"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o winpr/libwinpr/crt/utf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler36064d1ba262b841^dfc3791ba262b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c0000000000000000^2815"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o winpr/libwinpr/crt/utf.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/utf.o36"C8041F5D-684A-4989-98DF-C34577BE287F-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.315375
+e409117211.431684
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c245"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o winpr/libwinpr/crt/alignment.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler0ce9501ba262b841^1b836e1ba262b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c0000000000000000^2858"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o winpr/libwinpr/crt/alignment.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/alignment.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/alignment.o36"B339258A-4F72-483F-A8BA-71246C12C842-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.432219
+e409117211.479911
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c239"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o winpr/libwinpr/crt/buffer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler37c66e1ba262b841^c6db7a1ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c0000000000000000^2840"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o winpr/libwinpr/crt/buffer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/buffer.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/buffer.o36"6B08B2D8-2C14-4801-B867-0DF82C41649A-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.477079
+e409117211.570091
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c247"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o winpr/libwinpr/crt/conversion.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler11387a1ba262b841^02f2911ba262b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c0000000000000000^2864"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o winpr/libwinpr/crt/conversion.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/conversion.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/conversion.o36"4B2F791B-08EB-47EB-A179-480FB2DC3F50-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.481616
+e409117211.567376
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c239"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o winpr/libwinpr/crt/memory.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerf1687b1ba262b841^9e3f911ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c0000000000000000^2840"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o winpr/libwinpr/crt/memory.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/memory.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o36"053AF4AF-7E6A-4800-BF90-33F2C11F6E03-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.570048
+e409117211.682494
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c239"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o winpr/libwinpr/crt/string.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler1614921ba262b841^0fb8ae1ba262b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c0000000000000000^2840"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o winpr/libwinpr/crt/string.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/string.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/string.o36"0539E945-F2B9-4451-B25E-9F324FE13542-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.571463
+e409117211.678413
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c241"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o winpr/libwinpr/crt/unicode.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler2366921ba262b841^36acad1ba262b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c0000000000000000^2846"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o winpr/libwinpr/crt/unicode.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/unicode.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/unicode.o36"98DFBC93-0952-4915-8259-B16BBFE42E63-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117211.667642
+e409117211.809780
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c233"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o winpr/libwinpr/crt/utf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerc003ab1ba262b841^cf4dcf1ba262b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c0000000000000000^2822"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o winpr/libwinpr/crt/utf.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crt/utf.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/utf.o36"99D37346-6A08-4CB5-8A35-70D0EE04E540-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a normal armv7\ armv7s
+s409117211.894701
+e409117211.935921
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a
+xnormal
+xarmv7 armv7s
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a(memory.o) has no symbols
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a(memory.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a137"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a normal armv7\ armv7s191ce51ba262b841^569bef1ba262b841^-602"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a(memory.o) has no symbols/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a(memory.o) has no symbols-0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a00386c55deffdf42^791"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos/libwinpr-crt.a36"D7204903-A668-4D25-820B-C06E6FAECC44-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a normal armv7
+s409117211.847714
+e409117211.885394
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a
+xnormal
+xarmv7
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a normal armv7168"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a normal armv71a14d91ba262b841^93a9e21ba262b841^-260"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/memory.o has no symbols-0#0#1#--1088"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/winpr-crt.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7/libwinpr-crt.a36"CC5575BA-2145-43F9-A555-6E3C64DA35AE-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a normal armv7s
+s409117211.847704
+e409117211.886740
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a
+xnormal
+xarmv7s
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a normal armv7s170"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a normal armv7sd713d91ba262b841^3700e31ba262b841^-261"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/memory.o has no symbols-0#0#1#--1093"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/winpr-crt.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Objects-normal/armv7s/libwinpr-crt.a36"714E5472-44DD-4F7D-B230-2934268E006B-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh
+s409117211.944876
+e409117212.071943
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Release
+omake[1]: Nothing to be done for `PostBuild.winpr-crt.Release'.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'191"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh0c3df21ba262b841^406b121ca262b841^-1010"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClientecho "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Releasemake[1]: Nothing to be done for `PostBuild.winpr-crt.Release'.10(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117211#0#30#-0#-----2@23"Depend check for xcode-409117211#30#23#-0#-----2@215"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Release-409117211#53#215#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117211#268#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117212#390#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117212#525#136#-0#-----2@30"echo "Depend check for xcode"-409117212#661#30#-0#-----2@23"Depend check for xcode-409117212#691#23#-0#-----2@233"cd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crt.Release-409117212#714#233#-0#-----2@63"make[1]: Nothing to be done for `PostBuild.winpr-crt.Release'.-409117212#947#63#-0#-----0#0#1#--402"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crt/GwtClient.build/Release-iphoneos/winpr-crt.build/Script-FA83F594BF1D497AB2CBC574.sh36"5F82BEDD-AB79-473A-A620-3C438613CE69-
+bB78C7B98-59E5-4495-8C63-6BB61B2A15FC
+

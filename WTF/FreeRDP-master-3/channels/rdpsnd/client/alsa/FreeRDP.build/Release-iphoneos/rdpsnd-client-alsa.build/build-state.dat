@@ -1,0 +1,85 @@
+Trdpsnd-client-alsa
+v6
+r1
+cCheck dependencies
+cCompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+N/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o
+t2
+s0
+
+N/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o
+t2
+s0
+
+N/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c
+c000000005242304600000000000045C0
+t1380069446
+s17856
+
+CBuild AST from /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdba551e1ec43b941^cb1453e1ec43b941^---0#1#1#--18"Check dependencies36"A367BB18-A8D9-430A-9EA2-FA73A8123219-
+
+CCompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s423881953.325246
+e423881953.423434
+r0
+xCompileC
+xchannels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o
+x/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c:34:10: fatal error: 'alsa/asoundlib.h' file not found
+o#include <alsa/asoundlib.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c228"CompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler7b6853e1ec43b941^fad180e1ec43b941^-208"/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c:34:10: fatal error: 'alsa/asoundlib.h' file not found#include <alsa/asoundlib.h>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@33"'alsa/asoundlib.h' file not found-423881953#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@102"file:///Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c0000000000000000^33#9#33#9#945#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@102"file:///Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c0000000000000000^3160"CompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/Release-iphoneos/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3 -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/.. -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/DerivedSources/armv7 -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.d --serialize-diagnostics /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.dia -c /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c -o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd_alsa.o36"604AD867-2357-4B27-9891-FFB267137F49-
+b626F4574-0EB4-44FC-986E-A8634A3BC6EE
+
+CCompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s423881953.328720
+e423881953.422950
+r0
+xCompileC
+xchannels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o
+x/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c:34:10: fatal error: 'alsa/asoundlib.h' file not found
+o#include <alsa/asoundlib.h>
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c230"CompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerdd4554e1ec43b941^f6ce80e1ec43b941^-208"/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c:34:10: fatal error: 'alsa/asoundlib.h' file not found#include <alsa/asoundlib.h>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@33"'alsa/asoundlib.h' file not found-423881953#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@102"file:///Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c0000000000000000^33#9#33#9#945#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@102"file:///Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c0000000000000000^3167"CompileC channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o channels/rdpsnd/client/alsa/rdpsnd_alsa.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/Release-iphoneos/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3 -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/.. -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/DerivedSources/armv7s -I/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.d --serialize-diagnostics /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.dia -c /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/rdpsnd_alsa.c -o /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd_alsa.o36"A5E7858A-E6A4-43F4-8845-E1F66402C6AF-
+b626F4574-0EB4-44FC-986E-A8634A3BC6EE
+
+CCreateUniversalBinary /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/Release-iphoneos/rdpsnd-client-alsa.a normal armv7\ armv7s
+r0
+
+CLibtool /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7/rdpsnd-client-alsa.a normal armv7
+r0
+
+CLibtool /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Objects-normal/armv7s/rdpsnd-client-alsa.a normal armv7s
+r0
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Music/yuanguangtest/FreeRDP-master-3/channels/rdpsnd/client/alsa/FreeRDP.build/Release-iphoneos/rdpsnd-client-alsa.build/Script-8596A7BED5DF463DA65909C5.sh
+r0
+

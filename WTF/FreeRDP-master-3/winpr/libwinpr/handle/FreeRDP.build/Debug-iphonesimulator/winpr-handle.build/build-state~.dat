@@ -1,0 +1,97 @@
+Twinpr-handle
+v6
+r1
+cCheck dependencies
+cCompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o
+t2
+s0
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o
+t2
+s0
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c
+c00000000524230460000000000000D2A
+t1380069446
+s3370
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c
+c0000000052423046000000000000034D
+t1380069446
+s845
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+CBuild AST from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c
+r0
+
+CBuild AST from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies80d6781be05ab841^dbf7841be05ab841^---0#1#1#--18"Check dependencies36"8A773AEA-1CFA-40E6-B190-4D286BDBF812-
+
+CCompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s408608795.480651
+e408608795.931722
+r0
+xCompileC
+xwinpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c:24:
+oIn file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h:23:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h:32:10: fatal error: 'i386/_types.h' file not found
+o#include "i386/_types.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c203"CompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o winpr/libwinpr/handle/handle.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler172e7b1be05ab841^6286ee1be05ab841^-887"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c:24:In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h:23:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h:32:10: fatal error: 'i386/_types.h' file not found#include "i386/_types.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@30"'i386/_types.h' file not found-408608795#18446744073709551615#0#5(2@100"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c:24:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@90"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c0000000000000000^23#9#23#9#749#0#21"Apple LLVM 5.0 Notice--2@98"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h:23:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h0000000000000000^22#9#22#9#747#0#21"Apple LLVM 5.0 Notice--2@147"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@137"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h0000000000000000^66#9#66#9#3044#0#21"Apple LLVM 5.0 Notice--2@148"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@138"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h0000000000000000^26#9#26#9#1030#0#21"Apple LLVM 5.0 Notice--2@152"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@142"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h0000000000000000^32#9#32#9#1409#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@146"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h0000000000000000^31#9#31#9#1447#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@90"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c0000000000000000^2912"CompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o winpr/libwinpr/handle/handle.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Downloads/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphonesimulator\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/Debug-iphonesimulator/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/DerivedSources/i386 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/Debug-iphonesimulator -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.dia -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/handle.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/handle.o36"4A50D769-B83A-44EE-9C29-5754147705F9-
+b19FD0481-C623-4EE2-BE52-731DC36DADF6
+
+CCompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s408608795.481644
+e408608795.626723
+r0
+xCompileC
+xwinpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c:24:
+oIn file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h:23:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h:32:10: fatal error: 'i386/_types.h' file not found
+o#include "i386/_types.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c201"CompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o winpr/libwinpr/handle/table.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler9ab27b1be05ab841^0e4ba71be05ab841^-883"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c:24:In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h:23:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h:32:10: fatal error: 'i386/_types.h' file not found#include "i386/_types.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@30"'i386/_types.h' file not found-408608795#18446744073709551615#0#5(2@99"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c:24:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c0000000000000000^23#9#23#9#749#0#21"Apple LLVM 5.0 Notice--2@95"In file included from /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h:23:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h0000000000000000^22#9#22#9#751#0#21"Apple LLVM 5.0 Notice--2@147"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h:67:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@137"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h0000000000000000^66#9#66#9#3044#0#21"Apple LLVM 5.0 Notice--2@148"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h:27:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@138"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/_types.h0000000000000000^26#9#26#9#1030#0#21"Apple LLVM 5.0 Notice--2@152"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h:33:-408608795#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@142"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/_types.h0000000000000000^32#9#32#9#1409#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@146"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/machine/_types.h0000000000000000^31#9#31#9#1447#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@89"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c0000000000000000^2906"CompileC winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o winpr/libwinpr/handle/table.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Downloads/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphonesimulator\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/Debug-iphonesimulator/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/DerivedSources/i386 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/Debug-iphonesimulator -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.dia -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/table.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Objects-normal/i386/table.o36"90870CB7-D841-4AF0-B677-B260EEDDB8E4-
+b19FD0481-C623-4EE2-BE52-731DC36DADF6
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/Debug-iphonesimulator/libwinpr-handle.a normal i386
+r0
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/handle/FreeRDP.build/Debug-iphonesimulator/winpr-handle.build/Script-5F46EDA4E32740CD923DC2E0.sh
+r0
+

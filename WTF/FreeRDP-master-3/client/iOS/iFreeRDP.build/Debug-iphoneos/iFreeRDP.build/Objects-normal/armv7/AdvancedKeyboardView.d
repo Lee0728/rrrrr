@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/AdvancedKeyboardView.m \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Views/AdvancedKeyboardView.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/locale/keyboard.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/input.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/scancode.h

@@ -1,0 +1,180 @@
+Twinpr-interlocked
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o
+t1387424413
+s13368
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a
+t1387424414
+s14168
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/winpr-interlocked.LinkFileList
+c0000000052B26A9D00000000000000A3
+t1387424413
+s163
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o
+t1387424413
+s13348
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a
+t1387424414
+s14152
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/winpr-interlocked.LinkFileList
+c0000000052B26A9D00000000000000A4
+t1387424413
+s164
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh
+c0000000052B26A9D00000000000000E8
+t1387424413
+s232
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+c00000000524230460000000000002248
+t1380069446
+s8776
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd95ca11da262b841^1d05a81da262b841^---0#1#1#--18"Check dependencies36"643FB7CB-4844-404B-9165-210D2BE81C42-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117213.657838
+e409117213.881592
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/interlocked.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c271"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o winpr/libwinpr/interlocked/interlocked.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler8484a81da262b841^28d2e11da262b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c0000000000000000^2991"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o winpr/libwinpr/interlocked/interlocked.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/interlocked.o36"471DC54A-FBF9-437C-B746-0987FE55C307-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117213.657822
+e409117213.846678
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/interlocked.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c273"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o winpr/libwinpr/interlocked/interlocked.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler4982a81da262b841^efc8d81da262b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c0000000000000000^2998"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o winpr/libwinpr/interlocked/interlocked.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/interlocked/interlocked.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/interlocked.o36"D0610C66-1B6D-4836-B029-FE2DCEA00AC7-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a normal armv7\ armv7s
+s409117214.572794
+e409117214.617251
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a153"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a normal armv7\ armv7saeba921ea262b841^48189e1ea262b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a00386c55deffdf42^871"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos/libwinpr-interlocked.a36"77888360-A237-4959-A62B-DF9674DB0FF1-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a normal armv7
+s409117214.306261
+e409117214.318617
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a normal armv7192"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a normal armv7c37f4e1ea262b841^10ad511ea262b841^---0#0#1#--1168"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/winpr-interlocked.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7/libwinpr-interlocked.a36"CDB91B26-E14C-45DE-8748-070CF481B6E0-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a normal armv7s
+s409117214.408287
+e409117214.417423
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection194"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a normal armv7s194"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a normal armv7s5a9d681ea262b841^7fdc6a1ea262b841^---0#0#1#--1173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/winpr-interlocked.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Objects-normal/armv7s/libwinpr-interlocked.a36"949D6EDB-7828-47CF-8685-A6F6EEC15CED-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh
+s409117214.726404
+e409117214.845738
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Release
+omake[1]: Nothing to be done for `PostBuild.winpr-interlocked.Release'.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'207"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sha795ba1ea262b841^cf82d81ea262b841^-1034"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClientecho "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Releasemake[1]: Nothing to be done for `PostBuild.winpr-interlocked.Release'.10(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117214#0#30#-0#-----2@23"Depend check for xcode-409117214#30#23#-0#-----2@223"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Release-409117214#53#223#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117214#276#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117214#398#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117214#533#136#-0#-----2@30"echo "Depend check for xcode"-409117214#669#30#-0#-----2@23"Depend check for xcode-409117214#699#23#-0#-----2@241"cd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-interlocked.Release-409117214#722#241#-0#-----2@71"make[1]: Nothing to be done for `PostBuild.winpr-interlocked.Release'.-409117214#963#71#-0#-----0#0#1#--434"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/interlocked/GwtClient.build/Release-iphoneos/winpr-interlocked.build/Script-9BEB43CD835F4C3091FFF571.sh36"0C5D80F4-C525-46C4-8316-E8992BB118E8-
+b0EB18B2C-0358-487F-810B-D9614BAE20C5
+

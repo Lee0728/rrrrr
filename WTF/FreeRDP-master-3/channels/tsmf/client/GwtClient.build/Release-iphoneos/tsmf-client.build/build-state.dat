@@ -1,0 +1,770 @@
+Ttsmf-client
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.LinkFileList
+c0000000052B26AB40000000000000385
+t1387424436
+s901
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a
+t1387424439
+s114224
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o
+t1387424437
+s5420
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o
+t1387424437
+s11896
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o
+t1387424437
+s6832
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o
+t1387424437
+s25288
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o
+t1387424437
+s21836
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o
+t1387424438
+s40596
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.LinkFileList
+c0000000052B26AB4000000000000038B
+t1387424436
+s907
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a
+t1387424439
+s114096
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o
+t1387424438
+s5444
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o
+t1387424438
+s11900
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o
+t1387424438
+s6832
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o
+t1387424438
+s25324
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o
+t1387424438
+s21852
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o
+t1387424439
+s40384
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh
+c0000000052B26AB400000000000000D6
+t1387424436
+s214
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+c000000005242304600000000000006AA
+t1380069446
+s1706
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+c0000000052423046000000000000381C
+t1380069446
+s14364
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+c000000005242304600000000000006DD
+t1380069446
+s1757
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+c00000000524230460000000000004004
+t1380069446
+s16388
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+c000000005242304600000000000030D8
+t1380069446
+s12504
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+c0000000052423046000000000000710C
+t1380069446
+s28940
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies60caec34a262b841^1ceced34a262b841^---0#1#1#--18"Check dependencies36"4A69E97F-0A2C-446A-865E-38F64D5C0F9D-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.082104
+e409117237.209549
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o channels/tsmf/client/tsmf_audio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler0f2a1535a262b841^22a53535a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c0000000000000000^2959"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o channels/tsmf/client/tsmf_audio.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_audio.o36"7C8C206F-56E2-46D9-A767-6840A1E9BF17-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.211101
+e409117237.386926
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o channels/tsmf/client/tsmf_codec.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerb6313635a262b841^9d2e6335a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c0000000000000000^2959"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o channels/tsmf/client/tsmf_codec.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_codec.o36"A9372397-09CF-4EE3-B2E5-DBDEB3869461-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.259915
+e409117237.377421
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client/channels.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/channels/channels.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c255"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o channels/tsmf/client/tsmf_decoder.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler00ac4235a262b841^dc9e6035a262b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c0000000000000000^2971"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o channels/tsmf/client/tsmf_decoder.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_decoder.o36"96D6ADB9-BA8A-4965-9F03-95F37CE6729A-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.388607
+e409117237.660676
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o channels/tsmf/client/tsmf_ifman.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler51a06335a262b841^4222a935a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c0000000000000000^2959"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o channels/tsmf/client/tsmf_ifman.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_ifman.o36"8A82C71B-7023-432E-A71F-10F9FBAED697-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.645633
+e409117237.853728
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/cmdline.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c249"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o channels/tsmf/client/tsmf_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerb668a535a262b841^828eda35a262b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c0000000000000000^2953"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o channels/tsmf/client/tsmf_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_main.o36"A312CF09-BEB3-44FE-A60A-7A62082AA1E2-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.855210
+e409117238.195249
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/list.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client/tsmf.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o channels/tsmf/client/tsmf_media.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilere00fdb35a262b841^7a183236a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c0000000000000000^2959"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o channels/tsmf/client/tsmf_media.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf_media.o36"5A27A348-4E00-473F-B348-D04C911FCCB4-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117237.928349
+e409117238.031111
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o channels/tsmf/client/tsmf_audio.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler70cded35a262b841^06f70736a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c0000000000000000^2966"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o channels/tsmf/client/tsmf_audio.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_audio.o36"AD346B7A-288D-4CDC-BEA7-222DD3A69623-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117238.053655
+e409117238.205519
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o channels/tsmf/client/tsmf_codec.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerd6e00d36a262b841^399d3436a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c0000000000000000^2966"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o channels/tsmf/client/tsmf_codec.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_codec.o36"FED4F7E9-51C9-4CAE-9DB4-6E07D46CE755-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117238.256743
+e409117238.373024
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client/channels.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/channels/channels.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c257"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o channels/tsmf/client/tsmf_decoder.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilercede4136a262b841^0c955f36a262b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c0000000000000000^2978"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o channels/tsmf/client/tsmf_decoder.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_decoder.o36"FC1E5F66-F819-42B0-8EC8-FA78DB932C38-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117238.377237
+e409117238.639234
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o channels/tsmf/client/tsmf_ifman.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler0bb76036a262b841^b1c4a336a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c0000000000000000^2966"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o channels/tsmf/client/tsmf_ifman.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_ifman.o36"7DB78BA9-89C8-45D1-A209-A3CC5D303FFC-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117238.559551
+e409117238.723321
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/cmdline.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_ifman.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c251"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o channels/tsmf/client/tsmf_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler6c928f36a262b841^b22bb936a262b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c0000000000000000^2960"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o channels/tsmf/client/tsmf_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_main.o36"D134B9E4-6DF7-4442-8A72-71C7C01A7235-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117238.743580
+e409117239.061003
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/list.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/client/tsmf.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_decoder.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_audio.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_main.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o channels/tsmf/client/tsmf_media.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler828ebe36a262b841^069e0f37a262b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c0000000000000000^2966"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o channels/tsmf/client/tsmf_media.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/.. -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_media.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf_media.o36"5432F10A-3980-4F54-8366-0C427CE948AF-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a normal armv7\ armv7s
+s409117239.928595
+e409117240.038252
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a138"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a normal armv7\ armv7sead0ed37a262b841^75e70938a262b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a00386c55deffdf42^799"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos/tsmf-client.a36"BDD13731-DF92-47F4-95FF-C54CEABD4470-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a normal armv7
+s409117239.334936
+e409117239.355341
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a normal armv7171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a normal armv7f9dc5537a262b841^59f85a37a262b841^---0#0#1#--1102"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7/tsmf-client.a36"7489ED56-5849-48DA-BCEC-BCE88C5A7C57-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a normal armv7s
+s409117239.508583
+e409117239.529207
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a normal armv7s173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a normal armv7s224f8237a262b841^c47a8737a262b841^---0#0#1#--1107"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Objects-normal/armv7s/tsmf-client.a36"07C099D9-D606-4C10-A0E2-E1CCEE7537C7-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh
+s409117240.471417
+e409117240.595599
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.tsmf-client.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'195"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh3f557938a262b841^5f799838a262b841^-663"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.tsmf-client.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient6(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117240#0#30#-0#-----2@23"Depend check for xcode-409117240#30#23#-0#-----2@217"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.tsmf-client.Release-409117240#53#217#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117240#270#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117240#392#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117240#527#136#-0#-----0#0#1#--410"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/tsmf/client/GwtClient.build/Release-iphoneos/tsmf-client.build/Script-774AA1A450724292A9401F3A.sh36"65FE0D2A-848A-443E-83F9-D3736905B8FD-
+bD58E83F9-6652-422E-9E88-A394B00EA6D2
+

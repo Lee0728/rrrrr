@@ -1,0 +1,1503 @@
+Tfreerdp-cache
+v6
+r1
+cCheck dependencies
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a normal armv7
+cLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+c0000000052AAA623000000000000080A
+t1386915363
+s2058
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+c0000000052423046000000000000197B
+t1380069446
+s6523
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+c000000005242304600000000000006CC
+t1380069446
+s1740
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+c00000000524230460000000000000831
+t1380069446
+s2097
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+c0000000052423046000000000000079A
+t1380069446
+s1946
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+c0000000052423046000000000000064C
+t1380069446
+s1612
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+c0000000052423046000000000000085C
+t1380069446
+s2140
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+c0000000052423046000000000000077B
+t1380069446
+s1915
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+c00000000524230460000000000000728
+t1380069446
+s1832
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+c000000005242304600000000000006C8
+t1380069446
+s1736
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+c00000000524230460000000000000694
+t1380069446
+s1684
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+c00000000524230460000000000000AA8
+t1380069446
+s2728
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/constants.h
+c00000000524230460000000000000AB2
+t1380069446
+s2738
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+c00000000524230460000000000001BFD
+t1380069446
+s7165
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+c0000000052423046000000000000089E
+t1380069446
+s2206
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+c000000005242304600000000000007C3
+t1380069446
+s1987
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+c00000000524230460000000000002A91
+t1380069446
+s10897
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+c0000000052423046000000000000181D
+t1380069446
+s6173
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+c00000000524230460000000000000E3D
+t1380069446
+s3645
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+c00000000524230460000000000003EC8
+t1380069446
+s16072
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+c00000000524230460000000000000B5E
+t1380069446
+s2910
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+c00000000524230460000000000002B27
+t1380069446
+s11047
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+c0000000052423046000000000000223F
+t1380069446
+s8767
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+c000000005242304600000000000036BF
+t1380069446
+s14015
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+c00000000524230460000000000001464
+t1380069446
+s5220
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+c0000000052C2988D000000000000AB21
+t1388484749
+s43809
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+c00000000524230460000000000000591
+t1380069446
+s1425
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+c000000005242304600000000000015AC
+t1380069446
+s5548
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+c000000005242304600000000000009F5
+t1380069446
+s2549
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+c000000005242304600000000000022BF
+t1380069446
+s8895
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a
+t1389768688
+s1281056
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o
+t1389768686
+s86732
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o
+t1389768686
+s78188
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o
+t1389768686
+s73444
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/freerdp-cache.LinkFileList
+c0000000052D62FED00000000000004A5
+t1389768685
+s1189
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o
+t1389768686
+s89000
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a
+t1389768688
+s640536
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o
+t1389768686
+s75712
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o
+t1389768686
+s79116
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o
+t1389768686
+s75740
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o
+t1389768687
+s79864
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o
+t1389768687
+s86740
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o
+t1389768687
+s78176
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o
+t1389768687
+s73440
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/freerdp-cache.LinkFileList
+c0000000052D62FED00000000000004AD
+t1389768685
+s1197
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o
+t1389768687
+s89056
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a
+t1389768688
+s640472
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o
+t1389768687
+s75696
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o
+t1389768687
+s79100
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o
+t1389768687
+s75648
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o
+t1389768688
+s79884
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh
+c0000000052D62FED00000000000000D0
+t1389768685
+s208
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+c0000000052423046000000000000252F
+t1380069446
+s9519
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+c0000000052423046000000000000151E
+t1380069446
+s5406
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+c000000005242304600000000000006C9
+t1380069446
+s1737
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+c00000000524230460000000000003281
+t1380069446
+s12929
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+c00000000524230460000000000000D91
+t1380069446
+s3473
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+c00000000524230460000000000001250
+t1380069446
+s4688
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+c00000000524230460000000000000BB0
+t1380069446
+s2992
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+c00000000524230460000000000001767
+t1380069446
+s5991
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+c0000000052423046000000000000383B
+t1380069446
+s14395
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+c00000000524230460000000000000902
+t1380069446
+s2306
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+c00000000524230460000000000000DE2
+t1380069446
+s3554
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+c00000000524230460000000000024D4A
+t1380069446
+s150858
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+c000000005242304600000000000005D4
+t1380069446
+s1492
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+c00000000524230460000000000000586
+t1380069446
+s1414
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+c00000000524230460000000000006F1C
+t1380069446
+s28444
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+c00000000524230460000000000000508
+t1380069446
+s1288
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+c00000000524230460000000000014785
+t1380069446
+s83845
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+c000000005242304600000000000013F6
+t1380069446
+s5110
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+c000000005242304600000000000004B8
+t1380069446
+s1208
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+c00000000524230460000000000000631
+t1380069446
+s1585
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+c00000000524230460000000000001EEC
+t1380069446
+s7916
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+c00000000524230460000000000001245
+t1380069446
+s4677
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+c00000000524230460000000000002AEB
+t1380069446
+s10987
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+c00000000524230460000000000001448
+t1380069446
+s5192
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+c0000000052423046000000000000040A
+t1380069446
+s1034
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+c000000005242304600000000000004EA
+t1380069446
+s1258
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+c000000005242304600000000000017B1
+t1380069446
+s6065
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies498141f1c587b841^76c041f1c587b841^---0#1#1#--18"Check dependencies36"3DA48D3B-2D86-4184-B6F0-AFBEDA634569-
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.028744
+e411461486.280721
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c197"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o libfreerdp/cache/bitmap.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerbf7f076e6786b841^55dd476e6786b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c0000000000000000^2808"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o libfreerdp/cache/bitmap.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/bitmap.o36"28F220AD-DA65-452C-98CA-A52FFC341931-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.147566
+e411461486.314170
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c195"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o libfreerdp/cache/brush.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerf2e9256e6786b841^616d506e6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c0000000000000000^2802"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o libfreerdp/cache/brush.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/brush.o36"69956DFB-1A57-4F5C-B846-48987CA029FB-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.277743
+e411461486.399481
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c195"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o libfreerdp/cache/cache.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler7157476e6786b841^8c69666e6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c0000000000000000^2802"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o libfreerdp/cache/cache.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/cache.o36"C8BBE0C8-55A3-4B44-B855-AA3E78AD8FBA-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.315692
+e411461486.537816
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c195"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o libfreerdp/cache/glyph.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler13ef506e6786b841^c5ae896e6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c0000000000000000^2802"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o libfreerdp/cache/glyph.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/glyph.o36"62263A8B-D881-4383-A5CC-9B8185571E60-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.421526
+e411461486.561540
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c203"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o libfreerdp/cache/nine_grid.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler2c116c6e6786b841^44c28f6e6786b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c0000000000000000^2826"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o libfreerdp/cache/nine_grid.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/nine_grid.o36"AC994953-0E58-47B8-BF54-7F886B60AD5C-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.563130
+e411461486.711649
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c203"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o libfreerdp/cache/offscreen.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerdb4d906e6786b841^0053b66e6786b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c0000000000000000^2826"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o libfreerdp/cache/offscreen.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/offscreen.o36"7A86B32D-2257-408D-8C82-E4BE3476E6C2-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.770765
+e411461486.892994
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c199"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o libfreerdp/cache/palette.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilercd72c56e6786b841^419be46e6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c0000000000000000^2814"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o libfreerdp/cache/palette.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/palette.o36"1C7C9593-911E-4F4E-9646-A3253F31C0F6-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461486.894524
+e411461487.039816
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c199"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o libfreerdp/cache/pointer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler2b18e56e6786b841^ff5a0a6f6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c0000000000000000^2814"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o libfreerdp/cache/pointer.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/pointer.o36"C8385975-1521-482E-9543-1DAD32E0DCA7-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.041320
+e411461487.223446
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c199"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o libfreerdp/cache/bitmap.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilere6b10a6f6786b841^e333396f6786b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c0000000000000000^2815"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o libfreerdp/cache/bitmap.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/bitmap.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/bitmap.o36"698678DD-533C-4D66-B8F4-29C2303C2A7E-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.224926
+e411461487.373308
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c197"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o libfreerdp/cache/brush.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler6caf396f6786b841^60915f6f6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c0000000000000000^2809"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o libfreerdp/cache/brush.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/brush.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/brush.o36"2FAABD62-481B-431A-B36B-D3E282780023-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.270774
+e411461487.399554
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c197"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o libfreerdp/cache/cache.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler817c456f6786b841^cf4e666f6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c0000000000000000^2809"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o libfreerdp/cache/cache.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/cache.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/cache.o36"D0D3DADB-03DE-4989-85A2-7DD6F054C7A0-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.374820
+e411461487.605685
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c197"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o libfreerdp/cache/glyph.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler3317606f6786b841^910e9b6f6786b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c0000000000000000^2809"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o libfreerdp/cache/glyph.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/glyph.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/glyph.o36"F8DF4835-E422-4F96-B45C-0D4B694EE8BA-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.437897
+e411461487.580491
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c205"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o libfreerdp/cache/nine_grid.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compileraf40706f6786b841^a3e5946f6786b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c0000000000000000^2833"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o libfreerdp/cache/nine_grid.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/nine_grid.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/nine_grid.o36"BE48AE75-CE8A-4184-BC77-630F5B05AF6E-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.582153
+e411461487.752051
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c205"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o libfreerdp/cache/offscreen.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler882d956f6786b841^8e91c06f6786b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c0000000000000000^2833"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o libfreerdp/cache/offscreen.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/offscreen.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/offscreen.o36"25791019-4D63-4EC0-9F8A-AB9C20AD0BBD-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.753719
+e411461487.888867
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c201"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o libfreerdp/cache/palette.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler2f17c16f6786b841^718de36f6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c0000000000000000^2821"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o libfreerdp/cache/palette.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/palette.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/palette.o36"67CBCFCB-B57B-42C8-810E-1662B1A9FA33-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461487.890473
+e411461488.037449
+r1
+xCompileC
+xlibfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/cache.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/glyph.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/brush.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/bitmap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/nine_grid.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/offscreen.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/cache/palette.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c201"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o libfreerdp/cache/pointer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler0d1ce46f6786b841^ea9609706786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c0000000000000000^2821"CompileC libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o libfreerdp/cache/pointer.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/pointer.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/pointer.o36"6E06710E-D973-41E0-8AC9-B8F861EAFD38-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CCreateUniversalBinary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a normal armv7\ armv7s
+s411461488.075913
+e411461488.296271
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Create universal binary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a93"CreateUniversalBinary libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a normal armv7\ armv7s488713706786b841^45d94b706786b841^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a0000000000000000^770"CreateUniversalBinary libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a normal armv7\ armv7s    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos/libfreerdp-cache.a36"08A5B078-7DF0-419D-ABBD-C6AFC418E053-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a normal armv7
+s411461488.046266
+e411461488.067308
+r1
+xLibtool
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a normal armv7134"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a normal armv7e5f20b706786b841^5c3b11706786b841^---0#0#1#--1073"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a normal armv7    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -filelist /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/freerdp-cache.LinkFileList -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7/libfreerdp-cache.a36"FCAB3755-EEEB-4FC2-8A8F-07C9BBD53DCE-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a normal armv7s
+s411461488.046288
+e411461488.066370
+r1
+xLibtool
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a normal armv7s136"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a normal armv7se5f20b706786b841^d2fd10706786b841^---0#0#1#--1078"Libtool libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a normal armv7s    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/Debug-iphoneos -filelist /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/freerdp-cache.LinkFileList -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Objects-normal/armv7s/libfreerdp-cache.a36"D4EFABB6-E4FC-4FE8-8315-169292957DF0-
+bAE5FA3C5-67FF-4B6C-882A-52FB9DF34FB0
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh
+s411551217.266597
+e411551217.318295
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-cache.Debug
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'153"PhaseScriptExecution CMake\ PostBuild\ Rules libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh3ab044f1c587b841^e57c51f1c587b841^-657"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-cache.Debug/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient6(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-411551217#0#30#-0#-----2@23"Depend check for xcode-411551217#30#23#-0#-----2@217"cd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-cache.Debug-411551217#53#217#-0#-----2@120"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-411551217#270#120#-0#-----2@133"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient-411551217#390#133#-0#-----2@134"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient-411551217#523#134#-0#-----0#0#1#--373"PhaseScriptExecution CMake\ PostBuild\ Rules libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh    cd /Users/wuyonghua/Documents/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/cache/RealorGwtClient.build/Debug-iphoneos/freerdp-cache.build/Script-EBCFCDE889EE4886AC8B8FD8.sh36"69AF1854-9A28-4A83-80BB-F27FA7CE2948-
+bDF478236-63DD-4225-9FE7-5AD9E32D8867
+

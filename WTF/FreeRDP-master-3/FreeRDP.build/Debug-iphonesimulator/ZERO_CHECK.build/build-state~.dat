@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh
+c0000000052AAA89B00000000000000B1
+t1386915995
+s177
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8f53781be05ab841^73f4841be05ab841^---0#1#1#--18"Check dependencies36"589DB9D9-2FB7-4B19-8368-A346DC7BBA00-
+
+CPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh
+s408608795.476703
+e408608795.838044
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh
+oecho ""
+o
+omake -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'121"PhaseScriptExecution CMake\ Rules FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh14947a1be05ab841^bc03d81be05ab841^-189"echo ""make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/ReRunCMake.makemake[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-408608795#0#8#-0#-----2@81"make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/ReRunCMake.make-408608795#9#81#-0#-----2@99"make[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.-408608795#90#99#-0#-----0#0#1#--320"PhaseScriptExecution CMake\ Rules FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh    cd /Users/wuyonghua/Downloads/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/FreeRDP.build/Debug-iphonesimulator/ZERO_CHECK.build/Script-144A2D1982BB49539333D485.sh36"42D5147A-5295-4683-AB87-455E03679E58-
+bC8A3988E-9C1D-48D3-AFF1-D9F037FB54F3
+

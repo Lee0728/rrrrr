@@ -1,0 +1,1408 @@
+Twinpr-sspi
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o
+t1387424426
+s21620
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a
+t1387424428
+s385800
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o
+t1387424426
+s22368
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o
+t1387424426
+s44388
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o
+t1387424426
+s34276
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o
+t1387424426
+s36044
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o
+t1387424426
+s43800
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o
+t1387424426
+s68436
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o
+t1387424426
+s53984
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o
+t1387424427
+s51448
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/winpr-sspi.LinkFileList
+c0000000052B26AA9000000000000052F
+t1387424425
+s1327
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o
+t1387424427
+s21640
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a
+t1387424428
+s386304
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o
+t1387424427
+s22380
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o
+t1387424427
+s44384
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o
+t1387424427
+s34316
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o
+t1387424427
+s36164
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o
+t1387424427
+s44112
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o
+t1387424427
+s68448
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o
+t1387424427
+s53976
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o
+t1387424428
+s51452
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/winpr-sspi.LinkFileList
+c0000000052B26AA90000000000000538
+t1387424425
+s1336
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh
+c0000000052B26AA900000000000000D3
+t1387424425
+s211
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+c00000000524230460000000000001FB7
+t1380069446
+s8119
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+c0000000052423046000000000000648F
+t1380069446
+s25743
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+c00000000524230460000000000003567
+t1380069446
+s13671
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+c00000000524230460000000000004D72
+t1380069446
+s19826
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+c00000000524230460000000000008483
+t1380069446
+s33923
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+c000000005242304600000000000021A4
+t1380069446
+s8612
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+c000000005242304600000000000035A3
+t1380069446
+s13731
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+c00000000524230460000000000002D69
+t1380069446
+s11625
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+c00000000524230460000000000007933
+t1380069446
+s31027
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1408d729a262b841^4b76d829a262b841^---0#1#1#--18"Check dependencies36"767D841A-7D16-4F71-8ABA-E455D711525E-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117225.955813
+e409117226.089079
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c250"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler20d5f429a262b841^f2cd162aa262b841^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c0000000000000000^3058"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/credssp.o36"527FC0D1-1F29-4DF9-98A1-C224FDD66B51-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.529489
+e409117226.610913
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c256"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerd6ac872aa262b841^1f659c2aa262b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c0000000000000000^3074"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/negotiate.o36"78D9F679-8551-492D-9451-71BF4A610F5B-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.055916
+e409117226.332673
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/registry.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/io.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c241"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler3a780e2aa262b841^ed29552aa262b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c0000000000000000^3034"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm.o36"607EE166-C8E3-48DE-B0E2-696CE063FA94-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.091605
+e409117226.363371
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c259"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler878c172aa262b841^46065d2aa262b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c0000000000000000^3088"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_av_pairs.o36"D75C5540-0B29-498E-B544-89D2D6FEA7B9-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.281767
+e409117226.527991
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sam.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c257"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compileraa45482aa262b841^ae2a872aa262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c0000000000000000^3082"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_compute.o36"A91BAF23-D763-4445-BD74-4985059D131C-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.380491
+e409117226.716924
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c257"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compileref8d612aa262b841^6688b72aa262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c0000000000000000^3082"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/ntlm_message.o36"C2EC3C16-7E57-41F0-9DC9-C2960AAD434C-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.613509
+e409117226.834607
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/schannel.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c253"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o winpr/libwinpr/sspi/Schannel/schannel.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler8c309d2aa262b841^cdb0d52aa262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c0000000000000000^3066"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o winpr/libwinpr/sspi/Schannel/schannel.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel.o36"322BF009-AE2D-4DBD-B921-24D1F08F4DA1-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.714810
+e409117226.919159
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c269"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilerfb20b72aa262b841^234eeb2aa262b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c0000000000000000^3114"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/schannel_openssl.o36"5D003E99-1265-47DE-828D-2C78D97FCC3E-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.836184
+e409117227.164246
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c236"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o winpr/libwinpr/sspi/sspi.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler622dd62aa262b841^9e0c2a2ba262b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c0000000000000000^3024"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o winpr/libwinpr/sspi/sspi.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/sspi.o36"AD383E69-C6C3-400A-AD5E-D0CC11EFA9C0-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117226.921734
+e409117227.008860
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c252"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler6210ec2aa262b841^a644022ba262b841^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c0000000000000000^3065"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o winpr/libwinpr/sspi/CredSSP/credssp.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/CredSSP/credssp.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/credssp.o36"0E941616-F105-4601-A2CA-6E240C880FF6-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.465490
+e409117227.555252
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c258"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler384d772ba262b841^02478e2ba262b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c0000000000000000^3081"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o winpr/libwinpr/sspi/Negotiate/negotiate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Negotiate/negotiate.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/negotiate.o36"D1221DDA-6E6F-4401-ADE8-E421651B4BCE-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.010416
+e409117227.253100
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/registry.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/io.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c243"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler10cf022ba262b841^29cb402ba262b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c0000000000000000^3041"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o winpr/libwinpr/sspi/NTLM/ntlm.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm.o36"155658C3-44ED-4E89-A9DB-52544581EBC1-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.169074
+e409117227.462397
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c261"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilera56a2b2ba262b841^d95f762ba262b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c0000000000000000^3095"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_av_pairs.o36"FE211419-2DCF-4D2D-858D-A0E9F8134EE8-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.259299
+e409117227.493876
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sam.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c259"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler817b422ba262b841^53957e2ba262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c0000000000000000^3089"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o winpr/libwinpr/sspi/NTLM/ntlm_compute.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_compute.o36"87D1B8F5-FFBB-4F6C-9485-A98C0C6B8660-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.348854
+e409117227.860716
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/des_old.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui_compat.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ui.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/engine.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_compute.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_av_pairs.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c259"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerfb73592ba262b841^3e5edc2ba262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c0000000000000000^3089"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o winpr/libwinpr/sspi/NTLM/ntlm_message.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/NTLM/ntlm_message.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/ntlm_message.o36"CCBD6EC2-AD72-4C34-B9DF-D0323798CFAF-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.495430
+e409117227.863548
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/schannel.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c255"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o winpr/libwinpr/sspi/Schannel/schannel.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler33fd7e2ba262b841^e011dd2ba262b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c0000000000000000^3073"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o winpr/libwinpr/sspi/Schannel/schannel.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel.o36"55EB8F25-3FDE-4885-8997-DD841C7FC1D1-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.556981
+e409117227.857419
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c271"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler1bbd8e2ba262b841^f17fdb2ba262b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c0000000000000000^3121"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o winpr/libwinpr/sspi/Schannel/schannel_openssl.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/Schannel/schannel_openssl.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/schannel_openssl.o36"CA050308-AD7C-4C68-8E5C-4EB7EBE24D4F-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117227.862197
+e409117228.135796
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c238"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o winpr/libwinpr/sspi/sspi.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler23d8dc2ba262b841^6add222ca262b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c0000000000000000^3031"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o winpr/libwinpr/sspi/sspi.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/external/openssl/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/sspi/sspi.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/sspi.o36"31E5ED26-185C-4145-BB1D-794EF7044E9F-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a normal armv7\ armv7s
+s409117229.432978
+e409117229.552505
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a139"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a normal armv7\ armv7sa1f36e2da262b841^9f718d2da262b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a00386c55deffdf42^801"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos/libwinpr-sspi.a36"1B0510C7-3778-4636-BEBB-7AC6077F14D7-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a normal armv7
+s409117228.503100
+e409117228.538276
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a normal armv7171"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a normal armv7f3e2802ca262b841^97e38d2ca262b841^---0#0#1#--1098"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/winpr-sspi.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7/libwinpr-sspi.a36"5138CBB0-23E1-4B63-9B58-E0DFB6C9070F-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a normal armv7s
+s409117228.804822
+e409117228.827858
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a normal armv7s173"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a normal armv7sfb21ce2ca262b841^d4eed32ca262b841^---0#0#1#--1103"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/winpr-sspi.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Objects-normal/armv7s/libwinpr-sspi.a36"7421733A-284E-490D-B8E5-64F75FB21D18-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh
+s409117229.914082
+e409117230.023574
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Release
+omake[1]: Nothing to be done for `PostBuild.winpr-sspi.Release'.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'193"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.shf7adea2da262b841^5709062ea262b841^-1013"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClientecho "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Releasemake[1]: Nothing to be done for `PostBuild.winpr-sspi.Release'.10(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117229#0#30#-0#-----2@23"Depend check for xcode-409117229#30#23#-0#-----2@216"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Release-409117229#53#216#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117229#269#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117229#391#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117229#526#136#-0#-----2@30"echo "Depend check for xcode"-409117230#662#30#-0#-----2@23"Depend check for xcode-409117230#692#23#-0#-----2@234"cd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-sspi.Release-409117230#715#234#-0#-----2@64"make[1]: Nothing to be done for `PostBuild.winpr-sspi.Release'.-409117230#949#64#-0#-----0#0#1#--406"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/sspi/GwtClient.build/Release-iphoneos/winpr-sspi.build/Script-FAC471A8BAB34F498923CD4C.sh36"F0C4DF29-618D-4C55-9D55-91A12F09521D-
+b4E4C7971-CF95-4E95-9ED7-E52A9E89991B
+

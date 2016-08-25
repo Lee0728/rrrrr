@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+c0000000052AAB61300000000000000C7
+t1386919443
+s199
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies655376e0ed5ab841^e52977e0ed5ab841^---0#1#1#--18"Check dependencies36"EAC00729-8C5D-4671-A256-82512FDC66A7-
+
+CPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+s408612320.465155
+e408612320.541595
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+oecho ""
+o
+omake -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'115"PhaseScriptExecution CMake\ Rules iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.shcaa377e0ed5ab841^5da68ae0ed5ab841^-200"echo ""make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.makemake[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-408612320#0#8#-0#-----2@92"make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.make-408612320#9#92#-0#-----2@99"make[1]: `/Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeFiles/cmake.check_cache' is up to date.-408612320#101#99#-0#-----0#0#1#--330"PhaseScriptExecution CMake\ Rules iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh    cd /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh36"1376F40A-2259-4849-A318-17F5EDA11C9D-
+bD6B74822-A66D-4013-B695-3A89C69020B5
+

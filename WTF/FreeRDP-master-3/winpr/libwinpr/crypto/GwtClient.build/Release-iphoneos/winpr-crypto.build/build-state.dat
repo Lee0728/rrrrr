@@ -1,0 +1,228 @@
+Twinpr-crypto
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o
+t1387424415
+s8308
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o
+t1387424415
+s1888
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a
+t1387424415
+s10656
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/winpr-crypto.LinkFileList
+c0000000052B26A9E0000000000000126
+t1387424414
+s294
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o
+t1387424415
+s8308
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o
+t1387424415
+s1888
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a
+t1387424415
+s10656
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/winpr-crypto.LinkFileList
+c0000000052B26A9E0000000000000128
+t1387424414
+s296
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh
+c0000000052B26A9E00000000000000D9
+t1387424414
+s217
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+c000000005242304600000000000014C8
+t1380069446
+s5320
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+c00000000524230460000000000000F46
+t1380069446
+s3910
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+r0
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesafcdde1ea262b841^a8feed1ea262b841^---0#1#1#--18"Check dependencies36"FB5A6B41-A0E3-478C-A630-0E0D8EFDFFBE-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117215.056387
+e409117215.161345
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c242"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o winpr/libwinpr/crypto/cert.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compilera29a0e1fa262b841^b64d291fa262b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c0000000000000000^2869"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o winpr/libwinpr/crypto/cert.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/cert.o36"4EB69C9B-78A0-4E3B-BBF6-9EADC983A12E-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117215.100342
+e409117215.151790
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c246"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o winpr/libwinpr/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler78d3191fa262b841^1b2c281fa262b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c0000000000000000^2881"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o winpr/libwinpr/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o36"FC836EC4-90B1-4D4E-921B-ED0429B56054-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117215.162787
+e409117215.202534
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c244"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o winpr/libwinpr/crypto/cert.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerb8c8291fa262b841^94de331fa262b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c0000000000000000^2876"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o winpr/libwinpr/crypto/cert.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/cert.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/cert.o36"9F772063-EFC1-431A-9051-636E8EEAF997-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117215.286683
+e409117215.329533
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crypto.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c248"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o winpr/libwinpr/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerb08c491fa262b841^ab7b541fa262b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c0000000000000000^2888"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o winpr/libwinpr/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/winpr/libwinpr/crypto/crypto.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o36"5316F08A-AD71-42B4-9F36-CC88C91E13DC-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a normal armv7\ armv7s
+s409117215.932476
+e409117215.962303
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a
+xnormal
+xarmv7 armv7s
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a(crypto.o) has no symbols
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a(crypto.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a143"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a normal armv7\ armv7s6cd1ee1fa262b841^c66ff61fa262b841^-620"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a(crypto.o) has no symbols/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a(crypto.o) has no symbols-0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a00386c55deffdf42^821"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos/libwinpr-crypto.a36"F719C36E-6C4D-4FFC-911A-041D94D12B12-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a normal armv7
+s409117215.603542
+e409117215.614098
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a
+xnormal
+xarmv7
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a normal armv7177"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a normal armv77c9b9a1fa262b841^65359d1fa262b841^-266"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/crypto.o has no symbols-0#0#1#--1118"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/winpr-crypto.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7/libwinpr-crypto.a36"CB0EE45D-44A9-4772-92C5-A8C26DFF1AE4-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a normal armv7s
+s409117215.686150
+e409117215.698442
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a
+xnormal
+xarmv7s
+o/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection179"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a normal armv7s179"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a normal armv7sa0c4af1fa262b841^0abdb21fa262b841^-267"/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/crypto.o has no symbols-0#0#1#--1123"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/winpr-crypto.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Objects-normal/armv7s/libwinpr-crypto.a36"EE7ACB28-3DFD-4213-89AB-CAD8CC29E0D0-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh
+s409117216.141197
+e409117216.337901
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Release
+omake[1]: Nothing to be done for `PostBuild.winpr-crypto.Release'.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'197"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh21cd2420a262b841^b9fe5920a262b841^-1019"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClientecho "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Releasemake[1]: Nothing to be done for `PostBuild.winpr-crypto.Release'.10(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117216#0#30#-0#-----2@23"Depend check for xcode-409117216#30#23#-0#-----2@218"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Release-409117216#53#218#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117216#271#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117216#393#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117216#528#136#-0#-----2@30"echo "Depend check for xcode"-409117216#664#30#-0#-----2@23"Depend check for xcode-409117216#694#23#-0#-----2@236"cd /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr -f /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.winpr-crypto.Release-409117216#717#236#-0#-----2@66"make[1]: Nothing to be done for `PostBuild.winpr-crypto.Release'.-409117216#953#66#-0#-----0#0#1#--414"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/libwinpr/crypto/GwtClient.build/Release-iphoneos/winpr-crypto.build/Script-8A8D3CB8D2C14919AD190FD1.sh36"858788E4-51F2-4367-B94E-DD9B30AE8BA8-
+b6B6278B6-1F97-4A61-AC8D-4D9C939D8A33
+

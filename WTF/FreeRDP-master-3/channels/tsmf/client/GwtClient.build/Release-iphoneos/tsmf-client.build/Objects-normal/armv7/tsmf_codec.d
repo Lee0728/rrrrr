@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.c \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/config.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_constants.h \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_types.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/dvc.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/tsmf/client/tsmf_codec.h

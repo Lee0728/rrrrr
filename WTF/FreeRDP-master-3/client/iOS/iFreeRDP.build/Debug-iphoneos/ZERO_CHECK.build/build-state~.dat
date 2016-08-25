@@ -1,0 +1,72 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+c0000000052AAB61300000000000000C7
+t1386919443
+s199
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6bf0ba93ed5ab841^7427bc93ed5ab841^---0#1#1#--18"Check dependencies36"CA5E967E-EF97-4C39-B2D9-64119255F991-
+
+CPhaseScriptExecution CMake\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+s408612243.736435
+e408612254.868460
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh
+oecho ""
+o
+omake -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.make
+o/Users/wuyonghua/bin/cmake -H/Users/wuyonghua/Downloads/FreeRDP-master-3 -B/Users/wuyonghua/Downloads/FreeRDP-master-3
+o-- Checking whether C compiler has -isysroot
+o-- Checking whether C compiler has -isysroot - yes
+o-- Checking whether C compiler supports OSX deployment target flag
+o-- Checking whether C compiler supports OSX deployment target flag - no
+o-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) 
+o-- FreeRDP GIT
+o-- Git Revision n/a
+o-- Skipping disabled feature X11 for X11 (X11 client and server)
+o-- Skipping disabled feature DirectFB for DirectFB (DirectFB client)
+o-- Finding required feature ZLIB for compression (data compression)
+o-- Finding required feature OpenSSL for cryptography (encryption, certificate validation, hashing functions)
+o-- Skipping disabled feature ALSA for sound (audio input, audio output and multimedia redirection)
+o-- Skipping disabled feature Pulse for sound (audio input, audio output and multimedia redirection)
+o-- Skipping disabled feature Cups for printing (printer device redirection)
+o-- Skipping disabled feature PCSC for smart card (smart card device redirection)
+o-- Skipping optional feature FFmpeg for multimedia (multimedia redirection, audio and video playback)
+o--     Enable feature FFmpeg using "-DWITH_FFMPEG=ON"
+o-- Skipping disabled feature Gstreamer for multimedia (multimedia redirection, audio and video playback)
+o-- Skipping optional feature JPEG for codec (use JPEG library)
+o--     Enable feature JPEG using "-DWITH_JPEG=ON"
+o-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) 
+o-- FreeRDP GIT
+o-- Adding dynamic channel client server "audin": Audio Input Redirection Virtual Channel Extension
+o-- Adding static channel client server "cliprdr": Clipboard Virtual Channel Extension
+o-- Adding dynamic channel client "disp": Display Update Virtual Channel Extension
+o-- Adding static channel client server "drdynvc": Dynamic Virtual Channel Extension
+o-- Adding device channel client "drive": Drive Redirection Virtual Channel Extension
+o-- Adding dynamic channel client "echo": Echo Virtual Channel Extension
+o-- Adding device channel client "parallel": Parallel Port Virtual Channel Extension
+o-- Adding static channel client "rail": Remote Programs Virtual Channel Extension
+o-- Adding static channel client server "rdpdr": Device Redirection Virtual Channel Extension
+o-- Adding dynamic channel client "rdpei": Input Virtual Channel Extension
+o-- Adding static channel client server "rdpsnd": Audio Output Virtual Channel Extension
+o-- Adding device channel client "serial": Serial Port Virtual Channel Extension
+o-- Adding dynamic channel client "tsmf": Video Redirection Virtual Channel Extension
+o-- Adding iOS client
+o-- Checking whether CXX compiler has -isysroot
+o-- Checking whether CXX compiler has -isysroot - yes
+o-- Checking whether CXX compiler supports OSX deployment target flag
+o-- Checking whether CXX compiler supports OSX deployment target flag - no
+o-- Configuring done
+o-- Generating done
+o-- Build files have been written to: /Users/wuyonghua/Downloads/FreeRDP-master-3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'115"PhaseScriptExecution CMake\ Rules iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.shb118bd93ed5ab841^0d54de9eed5ab841^-3150"echo ""make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.make/Users/wuyonghua/bin/cmake -H/Users/wuyonghua/Downloads/FreeRDP-master-3 -B/Users/wuyonghua/Downloads/FreeRDP-master-3-- Checking whether C compiler has -isysroot-- Checking whether C compiler has -isysroot - yes-- Checking whether C compiler supports OSX deployment target flag-- Checking whether C compiler supports OSX deployment target flag - no-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) -- FreeRDP GIT-- Git Revision n/a-- Skipping disabled feature X11 for X11 (X11 client and server)-- Skipping disabled feature DirectFB for DirectFB (DirectFB client)-- Finding required feature ZLIB for compression (data compression)-- Finding required feature OpenSSL for cryptography (encryption, certificate validation, hashing functions)-- Skipping disabled feature ALSA for sound (audio input, audio output and multimedia redirection)-- Skipping disabled feature Pulse for sound (audio input, audio output and multimedia redirection)-- Skipping disabled feature Cups for printing (printer device redirection)-- Skipping disabled feature PCSC for smart card (smart card device redirection)-- Skipping optional feature FFmpeg for multimedia (multimedia redirection, audio and video playback)--     Enable feature FFmpeg using "-DWITH_FFMPEG=ON"-- Skipping disabled feature Gstreamer for multimedia (multimedia redirection, audio and video playback)-- Skipping optional feature JPEG for codec (use JPEG library)--     Enable feature JPEG using "-DWITH_JPEG=ON"-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) -- FreeRDP GIT-- Adding dynamic channel client server "audin": Audio Input Redirection Virtual Channel Extension-- Adding static channel client server "cliprdr": Clipboard Virtual Channel Extension-- Adding dynamic channel client "disp": Display Update Virtual Channel Extension-- Adding static channel client server "drdynvc": Dynamic Virtual Channel Extension-- Adding device channel client "drive": Drive Redirection Virtual Channel Extension-- Adding dynamic channel client "echo": Echo Virtual Channel Extension-- Adding device channel client "parallel": Parallel Port Virtual Channel Extension-- Adding static channel client "rail": Remote Programs Virtual Channel Extension-- Adding static channel client server "rdpdr": Device Redirection Virtual Channel Extension-- Adding dynamic channel client "rdpei": Input Virtual Channel Extension-- Adding static channel client server "rdpsnd": Audio Output Virtual Channel Extension-- Adding device channel client "serial": Serial Port Virtual Channel Extension-- Adding dynamic channel client "tsmf": Video Redirection Virtual Channel Extension-- Adding iOS client-- Checking whether CXX compiler has -isysroot-- Checking whether CXX compiler has -isysroot - yes-- Checking whether CXX compiler supports OSX deployment target flag-- Checking whether CXX compiler supports OSX deployment target flag - no-- Configuring done-- Generating done-- Build files have been written to: /Users/wuyonghua/Downloads/FreeRDP-master-346(21%IDEActivityLogMessage2@8"echo ""-408612243#0#8#-0#-----2@92"make -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/CMakeScripts/ReRunCMake.make-408612243#9#92#-0#-----2@119"/Users/wuyonghua/bin/cmake -H/Users/wuyonghua/Downloads/FreeRDP-master-3 -B/Users/wuyonghua/Downloads/FreeRDP-master-3-408612244#101#119#-0#-----2@45"-- Checking whether C compiler has -isysroot-408612246#220#45#-0#-----2@51"-- Checking whether C compiler has -isysroot - yes-408612247#265#51#-0#-----2@67"-- Checking whether C compiler supports OSX deployment target flag-408612247#316#67#-0#-----2@72"-- Checking whether C compiler supports OSX deployment target flag - no-408612247#383#72#-0#-----2@63"-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) -408612247#455#63#-0#-----2@15"-- FreeRDP GIT-408612247#518#15#-0#-----2@20"-- Git Revision n/a-408612248#533#20#-0#-----2@65"-- Skipping disabled feature X11 for X11 (X11 client and server)-408612248#553#65#-0#-----2@69"-- Skipping disabled feature DirectFB for DirectFB (DirectFB client)-408612248#618#69#-0#-----2@68"-- Finding required feature ZLIB for compression (data compression)-408612248#687#68#-0#-----2@109"-- Finding required feature OpenSSL for cryptography (encryption, certificate validation, hashing functions)-408612248#755#109#-0#-----2@99"-- Skipping disabled feature ALSA for sound (audio input, audio output and multimedia redirection)-408612248#864#99#-0#-----2@100"-- Skipping disabled feature Pulse for sound (audio input, audio output and multimedia redirection)-408612248#963#100#-0#-----2@76"-- Skipping disabled feature Cups for printing (printer device redirection)-408612248#1063#76#-0#-----2@81"-- Skipping disabled feature PCSC for smart card (smart card device redirection)-408612248#1139#81#-0#-----2@102"-- Skipping optional feature FFmpeg for multimedia (multimedia redirection, audio and video playback)-408612248#1220#102#-0#-----2@54"--     Enable feature FFmpeg using "-DWITH_FFMPEG=ON"-408612248#1322#54#-0#-----2@105"-- Skipping disabled feature Gstreamer for multimedia (multimedia redirection, audio and video playback)-408612248#1376#105#-0#-----2@63"-- Skipping optional feature JPEG for codec (use JPEG library)-408612248#1481#63#-0#-----2@50"--     Enable feature JPEG using "-DWITH_JPEG=ON"-408612248#1544#50#-0#-----2@63"-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) -408612248#1594#63#-0#-----2@15"-- FreeRDP GIT-408612248#1657#15#-0#-----2@99"-- Adding dynamic channel client server "audin": Audio Input Redirection Virtual Channel Extension-408612249#1672#99#-0#-----2@86"-- Adding static channel client server "cliprdr": Clipboard Virtual Channel Extension-408612249#1771#86#-0#-----2@82"-- Adding dynamic channel client "disp": Display Update Virtual Channel Extension-408612249#1857#82#-0#-----2@84"-- Adding static channel client server "drdynvc": Dynamic Virtual Channel Extension-408612249#1939#84#-0#-----2@85"-- Adding device channel client "drive": Drive Redirection Virtual Channel Extension-408612249#2023#85#-0#-----2@72"-- Adding dynamic channel client "echo": Echo Virtual Channel Extension-408612249#2108#72#-0#-----2@84"-- Adding device channel client "parallel": Parallel Port Virtual Channel Extension-408612249#2180#84#-0#-----2@82"-- Adding static channel client "rail": Remote Programs Virtual Channel Extension-408612249#2264#82#-0#-----2@93"-- Adding static channel client server "rdpdr": Device Redirection Virtual Channel Extension-408612249#2346#93#-0#-----2@74"-- Adding dynamic channel client "rdpei": Input Virtual Channel Extension-408612249#2439#74#-0#-----2@88"-- Adding static channel client server "rdpsnd": Audio Output Virtual Channel Extension-408612249#2513#88#-0#-----2@80"-- Adding device channel client "serial": Serial Port Virtual Channel Extension-408612249#2601#80#-0#-----2@85"-- Adding dynamic channel client "tsmf": Video Redirection Virtual Channel Extension-408612249#2681#85#-0#-----2@21"-- Adding iOS client-408612250#2766#21#-0#-----2@47"-- Checking whether CXX compiler has -isysroot-408612250#2787#47#-0#-----2@53"-- Checking whether CXX compiler has -isysroot - yes-408612250#2834#53#-0#-----2@69"-- Checking whether CXX compiler supports OSX deployment target flag-408612250#2887#69#-0#-----2@74"-- Checking whether CXX compiler supports OSX deployment target flag - no-408612250#2956#74#-0#-----2@20"-- Configuring done-408612251#3030#20#-0#-----2@19"-- Generating done-408612251#3050#19#-0#-----2@81"-- Build files have been written to: /Users/wuyonghua/Downloads/FreeRDP-master-3-408612254#3069#81#-0#-----0#0#1#--330"PhaseScriptExecution CMake\ Rules iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh    cd /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/iFreeRDP.build/Debug-iphoneos/ZERO_CHECK.build/Script-249D714B117E436390313E73.sh36"3B041A70-995F-4133-850C-56D2EF2EA09B-
+bF7394CA9-0EA8-4568-ADBE-093D8459C6E0
+

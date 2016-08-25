@@ -1,0 +1,224 @@
+Trdpsnd-client
+v6
+r1
+cCheck dependencies
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a normal armv7
+cLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.LinkFileList
+c0000000052B26AB3000000000000009B
+t1387424435
+s155
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a
+t1387424435
+s34920
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o
+t1387424435
+s34320
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.LinkFileList
+c0000000052B26AB3000000000000009C
+t1387424435
+s156
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a
+t1387424436
+s35040
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o
+t1387424435
+s34440
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh
+c0000000052B26AB300000000000000DC
+t1387424435
+s220
+
+N/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a
+t2
+s0
+
+N/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+c00000000524230460000000000004B6A
+t1380069446
+s19306
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4cfb1a33a262b841^26df1c33a262b841^---0#1#1#--18"Check dependencies36"9249D55A-388F-4193-A93C-1E8727D0689C-
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s409117235.209556
+e409117235.446384
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/cmdline.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/signal.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/channels/rdpsnd.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/codec/audio.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c259"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o channels/rdpsnd/client/rdpsnd_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler75cc3533a262b841^88477233a262b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c0000000000000000^2927"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o channels/rdpsnd/client/rdpsnd_main.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/DerivedSources/armv7 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd_main.o36"93EF5722-00FC-45AE-AD82-6A7DEF0E19B8-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+
+CCompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s409117235.281617
+e409117235.510603
+r1
+xCompileC
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o
+x/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/print.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/cmdline.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/sysinfo.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/constants.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/signal.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h
+d/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/channels/rdpsnd.h
+d/Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/codec/audio.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c261"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o channels/rdpsnd/client/rdpsnd_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerd93e4833a262b841^02b78233a262b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c0000000000000000^2934"CompileC /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o channels/rdpsnd/client/rdpsnd_main.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Release-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3 -I/Users/wuyonghua/Downloads/FreeRDP-master-3/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/DerivedSources/armv7s -I/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -DNDEBUG -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.d --serialize-diagnostics /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.dia -c /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpsnd/client/rdpsnd_main.c -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd_main.o36"3F5D4DAE-9245-4183-9794-EA8BA9CCA084-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+
+CCreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a normal armv7\ armv7s
+s409117236.554806
+e409117236.589781
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Create universal binary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a142"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a normal armv7\ armv7s2d228e34a262b841^6a139734a262b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a00386c55deffdf42^819"CreateUniversalBinary /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a normal armv7\ armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos/rdpsnd-client.a36"A74F28DF-85F1-413A-8A22-84EB2A0C6B5B-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a normal armv7
+s409117235.898480
+e409117235.911643
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection177"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a normal armv7177"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a normal armv75c1be633a262b841^5e80e933a262b841^---0#0#1#--1122"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a normal armv7    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7/rdpsnd-client.a36"CB8774FB-CFE6-437D-8300-F1A9B32DAA30-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+
+CLibtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a normal armv7s
+s409117236.028348
+e409117236.049245
+r1
+xLibtool
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection179"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a normal armv7s179"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a normal armv7s5b5c0734a262b841^d89b0c34a262b841^---0#0#1#--1127"Libtool /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a normal armv7s    cd /Users/wuyonghua/Movies/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/Release-iphoneos -filelist /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.LinkFileList -o /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Objects-normal/armv7s/rdpsnd-client.a36"B0813901-D875-4B48-B972-C21CBA34C900-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh
+s409117236.916536
+e409117237.002537
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rdpsnd-client.Release
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'199"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.shcd74eb34a262b841^98a60035a262b841^-665"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rdpsnd-client.Release/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient6(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-409117236#0#30#-0#-----2@23"Depend check for xcode-409117236#30#23#-0#-----2@219"cd /Users/wuyonghua/Downloads/FreeRDP-master-3 && make -C /Users/wuyonghua/Downloads/FreeRDP-master-3 -f /Users/wuyonghua/Downloads/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.rdpsnd-client.Release-409117236#53#219#-0#-----2@122"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/Release-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-409117236#272#122#-0#-----2@135"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7/GwtClient-409117236#394#135#-0#-----2@136"/bin/rm -f /Users/wuyonghua/Downloads/FreeRDP-master-3/client/iOS/FreeRDP.build/Release/GwtClient.build/Objects-normal/armv7s/GwtClient-409117236#529#136#-0#-----0#0#1#--418"PhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh    cd /Users/wuyonghua/Movies/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Downloads/FreeRDP-master-3/channels/rdpsnd/client/GwtClient.build/Release-iphoneos/rdpsnd-client.build/Script-ABD7E2050CAD4EAF99084AA6.sh36"D662BA10-9F80-4D65-9FD7-4C27E948F33F-
+b39B13A75-5F5D-467E-9CAD-18B45F6A7F0C
+

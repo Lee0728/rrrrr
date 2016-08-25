@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpdr/client/rdpdr_capabilities.c \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/config.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/stream.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/winpr.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/wtypes.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/windows.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/endian.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/platform.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/synch.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/error.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/handle.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/security.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/nt.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/svc_plugin.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/api.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/svc.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/types.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/settings.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/message.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/collections.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/addin.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/crt.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/string.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/memory.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/heap.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/thread.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/spec.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/debug.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/event.h \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpdr/client/rdpdr_main.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/channels/rdpdr.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/file.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/io.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/winpr/include/winpr/interlocked.h \
+  /Users/wuyonghua/Downloads/FreeRDP-master-3/include/freerdp/utils/list.h \
+  /Users/wuyonghua/Movies/FreeRDP-master-3/channels/rdpdr/client/rdpdr_capabilities.h

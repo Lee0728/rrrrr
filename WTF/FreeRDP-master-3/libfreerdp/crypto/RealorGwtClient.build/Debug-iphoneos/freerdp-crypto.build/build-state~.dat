@@ -1,0 +1,1374 @@
+Tfreerdp-crypto
+v6
+r1
+cCheck dependencies
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a normal armv7
+cLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a normal armv7s
+cCreateUniversalBinary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a normal armv7\ armv7s
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a
+t1388973659
+s602448
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o
+t1389768667
+s5792
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o
+t1389768667
+s24820
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o
+t1389768668
+s29728
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o
+t1389768668
+s55684
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o
+t1389768668
+s9736
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o
+t1389768668
+s23588
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/freerdp-crypto.LinkFileList
+c0000000052D62FDB00000000000004A5
+t1389768667
+s1189
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a
+t1389768670
+s301184
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o
+t1389768668
+s15048
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o
+t1389768669
+s131520
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o
+t1389768669
+s5800
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o
+t1389768669
+s24844
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o
+t1389768669
+s29724
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o
+t1389768669
+s55708
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o
+t1389768669
+s9816
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o
+t1389768670
+s23652
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/freerdp-crypto.LinkFileList
+c0000000052D62FDB00000000000004AD
+t1389768667
+s1197
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a
+t1389768670
+s301216
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o
+t1389768670
+s15052
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o
+t1389768670
+s131344
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh
+c0000000052D62FDB00000000000000D3
+t1389768667
+s211
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+c00000000524230460000000000000AAE
+t1380069446
+s2734
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+c00000000524230460000000000002552
+t1380069446
+s9554
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+c0000000052423046000000000000186E
+t1380069446
+s6254
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+c00000000524230460000000000003294
+t1380069446
+s12948
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+c00000000524230460000000000000983
+t1380069446
+s2435
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+c0000000052423046000000000000211D
+t1380069446
+s8477
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+c00000000524230460000000000002301
+t1380069446
+s8961
+
+N/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+c00000000524230460000000000004C31
+t1380069446
+s19505
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+r0
+
+CBuild AST from /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda573a5b6786b841^f6ee3b5b6786b841^---0#1#1#--18"Check dependencies36"6C0CE44C-5281-49CD-9C21-D4B7E7903F9A-
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461467.455734
+e411461467.729880
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c200"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o libfreerdp/crypto/base64.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler4b01755b6786b841^5ad9ba5b6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c0000000000000000^3011"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o libfreerdp/crypto/base64.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/base64.o36"71F5707F-CDF0-442A-8D5C-47C9BB88C32C-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461467.557674
+e411461467.802866
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c194"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o libfreerdp/crypto/ber.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler19e88e5b6786b841^d68fcd5b6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c0000000000000000^2993"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o libfreerdp/crypto/ber.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/ber.o36"475353B0-8A57-44F8-AA9F-4BA75B1DF803-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461467.782171
+e411461468.100717
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/file.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/io.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/path.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/tchar.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c210"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o libfreerdp/crypto/certificate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compileradf6c85b6786b841^bd1b2f5c6786b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c0000000000000000^3041"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o libfreerdp/crypto/certificate.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/certificate.o36"8207805A-1561-4CE9-9C37-06CE4E1E7427-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461467.913731
+e411461468.333342
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c200"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o libfreerdp/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler4511ea5b6786b841^0a80555c6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c0000000000000000^3011"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o libfreerdp/crypto/crypto.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/crypto.o36"16C29871-B0E1-4AD2-81FD-20E5DA2FD61F-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461468.261207
+e411461468.402458
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/der.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/er.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c194"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o libfreerdp/crypto/der.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler2504435c6786b841^4b1e675c6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c0000000000000000^2993"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o libfreerdp/crypto/der.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/der.o36"F387B9FB-CD48-4BEC-A5BA-C04A3087569B-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461468.493189
+e411461468.678429
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/er.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/der.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c192"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o libfreerdp/crypto/er.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler6b657e5c6786b841^e5d5ad5c6786b841^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c0000000000000000^2987"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o libfreerdp/crypto/er.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/er.o36"F3803934-D84F-4B7C-8850-FAAD5FEE5747-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461468.698225
+e411461468.867547
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/per.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c194"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o libfreerdp/crypto/per.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler2c82b35c6786b841^b117de5c6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c0000000000000000^2993"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o libfreerdp/crypto/per.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/per.o36"0A67DB4E-FA00-4662-86AF-DC92A6ADF324-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s411461468.872836
+e411461469.292480
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/tcp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/tls.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c194"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o libfreerdp/crypto/tls.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler0f98df5c6786b841^7ae14a5d6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c0000000000000000^2993"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o libfreerdp/crypto/tls.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/tls.o36"6C35ED31-3843-4B97-B8DE-01F64E503821-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.093105
+e411461469.327372
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c202"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o libfreerdp/crypto/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler94f9175d6786b841^d8d6535d6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c0000000000000000^3018"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o libfreerdp/crypto/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/base64.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/base64.o36"00AE4878-7C35-4831-85B4-43B0FD6DAA5A-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.295366
+e411461469.533537
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c196"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o libfreerdp/crypto/ber.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler9acd4b5d6786b841^9e95885d6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c0000000000000000^3000"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o libfreerdp/crypto/ber.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/ber.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/ber.o36"BCC3A0ED-30F0-424B-9A76-4B4ABB0227B4-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.328837
+e411461469.584090
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/file.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/io.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/path.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/tchar.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c212"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o libfreerdp/crypto/certificate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler085b545d6786b841^e6ae955d6786b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c0000000000000000^3048"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o libfreerdp/crypto/certificate.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/certificate.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/certificate.o36"8834F9B8-062E-4ED7-8AAC-F2DAC7646739-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.551584
+e411461469.914515
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c202"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o libfreerdp/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler9a5f8d5d6786b841^da1dea5d6786b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c0000000000000000^3018"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o libfreerdp/crypto/crypto.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/crypto.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/crypto.o36"EFDDEAA7-9C07-4577-8780-626CEC0F9CB9-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.749938
+e411461469.864109
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/der.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/er.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c196"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o libfreerdp/crypto/der.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerf129c05d6786b841^b536dd5d6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c0000000000000000^3000"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o libfreerdp/crypto/der.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/der.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/der.o36"6A7A0870-C6E4-4CFD-B70D-7021CF094CFF-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.823966
+e411461470.032402
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/er.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/der.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c194"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o libfreerdp/crypto/er.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerc216d35d6786b841^a14b085e6786b841^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c0000000000000000^2994"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o libfreerdp/crypto/er.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/er.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/er.o36"816DB4D2-D601-4CEF-82D3-FF0A401272E6-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461469.916124
+e411461470.065223
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/per.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c196"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o libfreerdp/crypto/per.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerd1aeea5d6786b841^c8b2105e6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c0000000000000000^3000"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o libfreerdp/crypto/per.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/per.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/per.o36"D86F4F50-886B-4B57-B2C6-D3E29F94269F-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s411461470.090039
+e411461470.488399
+r1
+xCompileC
+xlibfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c
+d/Users/wuyonghua/Documents/FreeRDP-master-3/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/winpr.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/string.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/wtypes.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/windows.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/memory.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/heap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/sspi.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/config.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/security.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/nt.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/stream.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/endian.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/platform.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/synch.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/handle.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/tcp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/api.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/types.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/settings.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/message.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/collections.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/tls.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/e_os2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslconf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/comp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/crypto.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/stack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/safestack.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/opensslv.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ossl_typ.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/symhacks.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bio.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/buffer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/evp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/objects.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/obj_mac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/asn1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/bn.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ecdh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dsa.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dh.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/sha.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509_vfy.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/lhash.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pkcs7.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pem2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/hmac.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/kssl.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl2.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/tls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/dtls1.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/pqueue.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/ssl23.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/err.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rc4.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/md5.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/x509v3.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/conf.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include/openssl/rand.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/freerdp.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/error.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/event.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/extension.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/scancode.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/input.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/update.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/thread.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/spec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/rail.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/graphics.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/utils/pcap.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/primary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/secondary.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/altsec.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/window.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/pointer.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/client.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/certificate.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/include/freerdp/crypto/ber.h
+d/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/print.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c196"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o libfreerdp/crypto/tls.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler5130175e6786b841^5a0d7d5e6786b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c0000000000000000^3000"CompileC libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o libfreerdp/crypto/tls.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O2 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DCMAKE_INTDIR=\"Debug-iphoneos\" -DHAVE_CONFIG_H -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/include -I/Users/wuyonghua/Documents/FreeRDP-master-3 -I/Users/wuyonghua/Documents/FreeRDP-master-3/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/external/openssl/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources/armv7s -I/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -Wall -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -DWINPR_EXPORTS -DFREERDP_EXPORTS -fPIC -MMD -MT dependencies -MF /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.d --serialize-diagnostics /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.dia -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/tls.c -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/tls.o36"B837C6CD-8CBE-4F98-B61B-46768AEFB09A-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CCreateUniversalBinary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a normal armv7\ armv7s
+s411461470.925494
+e411461471.044023
+r1
+xCreateUniversalBinary
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Create universal binary /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a95"CreateUniversalBinary libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a normal armv7\ armv7s5036ed5e6786b841^7d5c0b5f6786b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a0000000000000000^780"CreateUniversalBinary libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a normal armv7\ armv7s    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos/libfreerdp-crypto.a36"A025A7A5-D934-4F43-B745-FA991CF8102D-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a normal armv7
+s411461470.653936
+e411461470.673144
+r1
+xLibtool
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a
+xnormal
+xarmv7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a normal armv7137"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a normal armv72f85a75e6786b841^e466ac5e6786b841^---0#0#1#--1083"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a normal armv7    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -filelist /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/freerdp-crypto.LinkFileList -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7/libfreerdp-crypto.a36"A5A7C58F-D4AB-43C4-A8A0-58CF61C59C4C-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CLibtool /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a normal armv7s
+s411461470.723041
+e411461470.743313
+r1
+xLibtool
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a normal armv7s139"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a normal armv7s7f33b95e6786b841^5e68be5e6786b841^---0#0#1#--1088"Libtool libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a normal armv7s    cd /Users/wuyonghua/Documents/FreeRDP-master-3    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/Debug-iphoneos -filelist /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/freerdp-crypto.LinkFileList -o /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Objects-normal/armv7s/libfreerdp-crypto.a36"1C05461B-7FF4-436B-A51D-B7FF63D87F53-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh
+s411461471.130332
+e411461471.225313
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-crypto.Debug
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient
+o/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'155"PhaseScriptExecution CMake\ PostBuild\ Rules libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.shf4fc215f6786b841^e4be395f6786b841^-658"echo "Depend check for xcode"Depend check for xcodecd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-crypto.Debug/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient6(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-411461471#0#30#-0#-----2@23"Depend check for xcode-411461471#30#23#-0#-----2@218"cd /Users/wuyonghua/Documents/FreeRDP-master-3 && make -C /Users/wuyonghua/Documents/FreeRDP-master-3 -f /Users/wuyonghua/Documents/FreeRDP-master-3/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freerdp-crypto.Debug-411461471#53#218#-0#-----2@120"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/Debug-iphoneos/GwtClient.app/Contents/MacOS/GwtClient-411461471#271#120#-0#-----2@133"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7/GwtClient-411461471#391#133#-0#-----2@134"/bin/rm -f /Users/wuyonghua/Documents/FreeRDP-master-3/client/iOS/FreeRDP.build/Debug/GwtClient.build/Objects-normal/armv7s/GwtClient-411461471#524#134#-0#-----0#0#1#--377"PhaseScriptExecution CMake\ PostBuild\ Rules libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh    cd /Users/wuyonghua/Documents/FreeRDP-master-3    /bin/sh -c /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/crypto/RealorGwtClient.build/Debug-iphoneos/freerdp-crypto.build/Script-113387A840834D72BD7E629E.sh36"5E08A2B0-51AB-4535-A00C-38F73C70C9AE-
+b44F25D14-BA97-4703-B5CF-C12676A5E0C1
+
